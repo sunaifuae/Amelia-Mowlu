@@ -25,12 +25,36 @@
 
 
 
-## Developers
-  <div align="center">
-    
-  [![sunaif-adkar](https://github.com/sunaif-adkar.png?size=100)](https://github.com/sunaif-adkar) |  [![AKR MODS](https://telegra.ph/file/8426fdb98e7c692187ce4.jpg?size=100)](https://github.com/BL4CK-4L13N) | [![ᏞuᏦᎬ](https://telegra.ph/file/bc50dcd1bafa37dbf230d.png?size=100)](https://github.com/georgyLM10) 
-----|----|----
-[sunaif-adkar](https://github.com/sunaif-adkar)  | [AKR MODS](https://BL4CK-4L13N) | [ɪͥᴛͭsᷤ ᴍͫᴇͤ ᏞuᏦᎬ](https://github.com/georgyLM10)
-CREATER AND FOUNDER | Created contribute  | managing director
-  </div>
+<div align="center">
+  <table>
+    <tr>
+      <!-- Developer 1 -->
+      <td align="center">
+        <a href="https://github.com/sunaif-adkar">
+          <img src="https://github.com/sunaif-adkar.png?size=100" width="100px" alt="sunaif-adkar"/><br />
+          <b>sunaif-adkar</b>
+        </a><br />
+        CREATOR AND FOUNDER
+      </td>
+      
+      <!-- Developer 2 -->
+      <td align="center">
+        <a href="https://github.com/BL4CK-4L13N">
+          <img src="https://telegra.ph/file/8426fdb98e7c692187ce4.jpg?size=100" width="100px" alt="AKR MODS"/><br />
+          <b>AKR MODS</b>
+        </a><br />
+        Contributor
+      </td>
+      
+      <!-- Developer 3 -->
+      <td align="center">
+        <a href="https://github.com/georgyLM10">
+          <img src="https://telegra.ph/file/bc50dcd1bafa37dbf230d.png?size=100" width="100px" alt="ᏞuᏦᎬ"/><br />
+          <b>ɪͥᴛͭsᷤ ᴍͫᴇͤ ᏞuᏦᎬ</b>
+        </a><br />
+        Managing Director
+      </td>
+    </tr>
+  </table>
+</div>
 
